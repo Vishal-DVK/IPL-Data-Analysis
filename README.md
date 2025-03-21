@@ -1,4 +1,5 @@
 # IPL-Data-Analysis
+Sample Project
 This project focused on the Indian Premier League (IPL) and its players' performance over the past decade. This project involved utilizing Python's powerful libraries, including NumPy and Matplotlib, to analyze and visualize the salaries, games played, and points scored by the top 10 highest-paid players during the 2015-2024 season.
 
 # Key Objectives:
